@@ -18,6 +18,7 @@ import os
 import tensorflow as tf
 
 print(tf.__version__)
+print('modified for test')
 
 batch_size = 128
 num_classes = 10
